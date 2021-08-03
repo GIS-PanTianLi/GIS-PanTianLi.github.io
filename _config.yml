@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Tianli Pan"
-  avatar           : "profile.png"
+  avatar           : "ptl-profile.png"
   bio              : "PhD student at Hong Kong University of Science and Technology, working on remote sensing application for landslide monitoring."
-  location         : "Location"
+  location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
