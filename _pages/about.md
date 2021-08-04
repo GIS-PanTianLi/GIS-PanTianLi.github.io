@@ -7,23 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Tianli Pan, a PhD student at Hong Kong University of Science and Technology, supervised by [Prof. Charles W.W. Ng](https://charles-ng.hkust.edu.hk/) and [Prof. Bo Huang](http://www.iseis.cuhk.edu.hk/zh/huangbo.html). I currently work in the Areas of Excellence (AoE) Project for establishing a world-leading [Centre for Slope Safety](https://slope-aoe.hkust.edu.hk/), and my personal researches are focusing on utilizing both Unmanned Aerial Vehicle and satellite images to develop algorithms for vegetation classification and the landslide detection.
+Hi! I am Tianli Pan, a PhD student at Hong Kong University of Science and Technology, supervised by [Prof. Charles W.W. Ng](https://charles-ng.hkust.edu.hk/) and [Prof. Bo Huang](http://www.iseis.cuhk.edu.hk/zh/huangbo.html). I currently work in the Areas of Excellence (AoE) Project for establishing a world-leading [Centre for Slope Safety](https://slope-aoe.hkust.edu.hk/), and my role in this project is to utilize both Unmanned Aerial Vehicle (UAV) and satellite images to develop algorithms for vegetation classification and the landslide detection.
 
 
 Education
 ======
 2021.09-present         Ph.D in Civil Engineering, School of Engineering, Hong Kong University of Science and Technology.
-2017.09-2020.06         M.S. in Cartography and Geographical Information Sytem, Faculty of Geography,Beijing Normal University.
+2017.09-2020.06         M.S. in Cartography and Geographical Information Sytem, Faculty of Geographical Science, Beijing Normal University.
 2013.09-2017.06         B.S. in Geographical Infomation Science, College of Earth and Environmental Science, Lanzhou University.
 
-Getting started
+My work and Research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I’m a disciplinary nomad, integrating disciplines like computer science, information science with fields like geography and sociology. Methodologically, I am trained as a qualitative geographer, spending a lot of my time in exploring using computer algorithm to understand the both physical and social geography phenomena. My past research experiences involve using DMSP satellite images to provide detailed map of pixel-level population density distribution, calculating river discharge through UAV and multi-spectral satellite images and monitoring landslide with 3D laser. Through my research experiences, I have commanded using qualitative, quantitative, and computational methods to process geographical data. use statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines
 
 Site-wide configuration
 ------
