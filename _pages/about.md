@@ -13,7 +13,9 @@ Hi! I am Tianli Pan, a PhD student at Hong Kong University of Science and Techno
 Education
 ======
 2021.09-present         Ph.D in Civil Engineering, School of Engineering, Hong Kong University of Science and Technology.
+
 2017.09-2020.06         M.S. in Cartography and Geographical Information Sytem, Faculty of Geographical Science, Beijing Normal University.
+
 2013.09-2017.06         B.S. in Geographical Infomation Science, College of Earth and Environmental Science, Lanzhou University.
 
 My work and Research
